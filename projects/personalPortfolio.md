@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/personalPortfolio-square.png
 title: "Personal Portfolio"
 date: 2024
 published: true
