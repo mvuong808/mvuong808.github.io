@@ -7,7 +7,7 @@
     "phone": "808-383-8230",
     "website": "https://mvuong8.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
-    "location": { "address": "4108 Kaimuki Ave", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mvuong808", "url": "http://github.com/mvuong808" },
       { "network": "linkedin", "username": "mason-vuong-00b449270", "url": "https://www.linkedin.com/in/mason-vuong-00b449270/" },
