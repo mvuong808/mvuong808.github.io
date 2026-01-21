@@ -6,7 +6,6 @@ title: "War"
 date: 2022
 published: true
 labels:
-  - Repl
   - Java
   - Game
 summary: "A text version of the card game War I created for my computer science class in 2022."
