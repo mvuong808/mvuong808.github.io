@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript-reflection/timer">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript-reflection/timer.avif">
 So far, TypeScript has been a useful language for me. I didn't know much about JavaScript or TypeScript before, so this was pretty new to me. The syntax was somewhat similar to language likes Java or C, but there were a lot of different things that I had to adjust to as well. In other languages, there is less structure when it comes to keep types of variables consistent, so I found TypeScript to be quite helpful in accomplishing that. From a software engineering perspective, I think that TypeScript is a great language to use, as it improves readabilty, functionality, and the ability to spot errors in code./
 
 ## Athletic Software Engineering (WODs)/
