@@ -10,6 +10,7 @@ labels:
   - HTML
   - CSS
   - Personal
+  - Javascript
 summary: "A website I made about myself for my computer science class in high school."
 ---
 
