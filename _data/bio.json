@@ -2,10 +2,10 @@
   "basics": {
     "name": "Mason Vuong",
     "label": "Student",
-    "picture": "../img/mason-vuong.jpg",
+    "picture": "https://github.com/mvuong808.png",
     "email": "mvuong8@hawaii.edu",
     "phone": "808-383-8230",
-    "website": "https://github.com/mvuong808.png",
+    "website": "https://mvuong808.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
     "location": { "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
