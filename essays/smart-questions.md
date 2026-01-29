@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Question your questions"
+title: "Question your Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-29
 published: true
