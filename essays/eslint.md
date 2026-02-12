@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Getting the Hint from ESLint"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-12
+date: 2026-02-12
 published: true
 labels:
   - Reflection
