@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Typing Types in TypeScript"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-21
+date: 2026-01-21
 published: true
 labels:
   - TypeScript
