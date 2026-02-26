@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/uiframeworks/homepage.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/uiframeworks/homepage.png">
 ### Using UI Frameworks
 I've used raw HTML and CSS before to create websites, as that was all I knew. I remember thinking, *there must be a better way to do this*, and I just trudged through it, not knowing about UI Frameworks. After learning about Bootstrap 5, I don't think I can use just raw HTML and CSS anymore, as Bootstrap 5 makes it so much easier to create a website, as there is so much reusable code in the frameworks that make it much more efficient to create. Having to tinker with CSS to get what you want for each individual element of the page is way too much of a hassle, and can be super time consuming. Having preset classes that you can use is super helpful, as the class names are very indicative of what they do, and you don't have to create the CSS from scratch. In addition, you can still make tiny tweaks in style using CSS.
 
