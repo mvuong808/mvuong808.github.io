@@ -10,9 +10,9 @@ labels:
 
 # Overview 
 ### Problem
-Many students at UH Manoa play video games and may not be able to find other students to play video games with.  
+Many students at UH Manoa play video games and may not be able to find other students to play video games with, and thus play alone, making the game less fun to play. Having an easier way of finding other students to play with can create new connections and improve students' gaming experience.
 ### Solution
-An application where students are able to customize their game library, as well as list their gaming preferences, in order to find other students that play the same games as them. This application can include a multitude of popular video games, discord servers, and other UH Manoa events related to gaming. 
+An application where students are able to customize their game library, as well as list their gaming preferences, in order to find other students that play the same games as them. This application can include a multitude of popular video games, discord servers, and other UH Manoa events related to gaming, to help connect other students who are interested in gaming. 
 ### Mockup page ideas
 Some mockup page ideas are:
 
