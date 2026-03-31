@@ -8,9 +8,9 @@ labels:
   - Nextjs
 ---
 
-### Overview 
-## Problem
-## Solution
-### Mockup page ideas
-### Use case ideas
-### Beyond the basics
+# Overview 
+### Problem
+### Solution
+# Mockup page ideas
+# Use case ideas
+# Beyond the basics
