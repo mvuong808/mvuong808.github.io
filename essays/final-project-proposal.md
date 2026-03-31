@@ -9,7 +9,8 @@ labels:
 ---
 
 # Project: UH Gaming Hub
-By Mason Vuong and Peyton Young
+Group Members: Tuan Do, John Gabriel Martinez, Ella Self, Mason Vuong, Peyton Young
+This project idea was collaborately made and may not be the actual project we are creating.
 ### Problem
 Many students at UH play video games and may not be able to find other students to play video games with, and thus play alone, making the game less fun to play. Having an easier way of finding other students to play with can create new connections and improve students' gaming experience.
 ### Solution
