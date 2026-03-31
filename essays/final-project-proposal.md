@@ -11,6 +11,6 @@ labels:
 # Overview 
 ### Problem
 ### Solution
-# Mockup page ideas
-# Use case ideas
-# Beyond the basics
+### Mockup page ideas
+### Use case ideas
+### Beyond the basics
