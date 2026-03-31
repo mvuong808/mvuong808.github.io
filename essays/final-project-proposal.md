@@ -29,9 +29,12 @@ Some mockup page ideas are:
 *User goes to landing page, logs in, gets to their home page, and can look at their game library and user details.
 *User can also go to community page, listing discords or other groups involving UH Manoa video games that are in their library
 *User can look at the Looking for game home page or Find other players page to play games with other students who have similar game libraries or are looking to play.
+
 ### Beyond the basics
 Some more advanced features that could be implemented are:
+
 *An esports page, listing informatino about UH Esports
 *A way to keep track of previous gaming history, and what games other students have played recently
 *A trending page of games that more students have been using
 *A page where students can 
+
