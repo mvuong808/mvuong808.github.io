@@ -9,6 +9,7 @@ labels:
 ---
 
 # Project: UH Gaming Hub
+By Mason Vuong and Peyton Young
 ### Problem
 Many students at UH play video games and may not be able to find other students to play video games with, and thus play alone, making the game less fun to play. Having an easier way of finding other students to play with can create new connections and improve students' gaming experience.
 ### Solution
