@@ -33,7 +33,7 @@ Some mockup page ideas are:
 ### Beyond the basics
 Some more advanced features that could be implemented are:
 
-* An esports page, listing informatino about UH Esports
+* An esports page, listing information about UH Esports
 * A way to keep track of previous gaming history, and what games other students have played recently
 * A trending page of games that more students have been using
 * A page where students can 
