@@ -15,6 +15,7 @@ Many students at UH Manoa play video games and may not be able to find other stu
 An application where students are able to customize their game library, as well as list their gaming preferences, in order to find other students that play the same games as them. This application can include a multitude of popular video games, discord servers, and other UH Manoa events related to gaming. 
 ### Mockup page ideas
 Some mockup page ideas are:
+
 *Landing page
 *User homepage
 *Video game library page
@@ -23,6 +24,7 @@ Some mockup page ideas are:
 *Find other players page
 
 ### Use case ideas
+
 *New user goes to landing page, signs up, gets to their home page, sets up profile (customizes game library, preferences, username)
 *User goes to landing page, logs in, gets to their home page, and can look at their game library and user details.
 *User can also go to community page, listing discords or other groups involving UH Manoa video games that are in their library
