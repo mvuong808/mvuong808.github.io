@@ -11,7 +11,7 @@ labels:
   - Effort Estimation
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/effort-esitmation-reflection/efforts.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/effort-estimation-reflection/efforts.png">
 ### Coming Up With an Estimate
 Estimating how much time I needed to complete a task was often very tricky, as sometimes I wouldn't fully know how to complete the task, so I would spend some time figuring that out which made the task take longer. In addition, there were several times I ran into other issues that I had to fix before completing the task or I had messed something else up when completing the task. That being said, I did have some estimates that were pretty far off the actual time it took, but most of my estimates were relatively accurate. 
 
