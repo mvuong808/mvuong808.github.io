@@ -40,7 +40,7 @@ During the past few years, AI has been on an unprecedented upward trend. At firs
   * AI was a useful tool for writing code, as it could write code a lot faster than me. However, I did have to make sure to proofread the code it makes, as sometimes it can be confused or have small errors that need to be fixed. 
 * **Documenting code**
   * I used AI a little bit for documenting code, such as inline messages or comments in the code. Though I probably should have used it more, as there were sometimes I didn't really have it explain what the code did in the code itself. 
-* **Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”**
+* **Quality assurance e.g.** “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
   * AI was also useful for quality assurance, as there were often times where the AI's generation didn't quite align with what I wanted, and so I was able to ask it prompts like "How can I make this so it's more like ___" and it would adjust it's response to me. In addition, it was also very useful for fixing ESLint errors and resolving issues. There were times where I got stuck on certain dependency errors or strange path errors, and I was able to resolve these problems by showing AI certain files or screenshots. It definitely saved me a bunch of time.
 
 ### Impact on Learning and Understanding
