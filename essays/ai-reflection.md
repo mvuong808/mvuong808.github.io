@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai-reflection/hello-world.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/ai-reflection/hello-world.jpg">
 ### Introduction
 During the past few years, AI has been on an unprecedented upward trend. At first, people didn't think much of it, but as it got smarter and faster, more and more people realized how important it could be. In particular, students in school began to use AI to complete essays, finish assignments, and create practice exams. For Software Development, AI is also an incredibly useful tool, as code is the building blocks for AI itself, and coding is a relatively straightforward, objective subject that the AI can be trained on. I had not used AI before taking this class, as I didn't really feel like it was necessary, but during the course of this class, I learned that although it may not be necessary, it can do things much faster than I can, and it is much more efficient to use it as a tool. I used ChatGPT and Gemini during this course, but I found that ChatGPT was much better at coding than Gemini.
 
