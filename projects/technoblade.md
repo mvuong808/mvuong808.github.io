@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/technoblade/technoblade-square.jpg
+image: img/technoblade/technoblade.jpg
 title: "Technoblade Website"
 date: 2022
 published: true
