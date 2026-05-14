@@ -25,5 +25,6 @@ The most important thing I learned was how to work in a team. Of course, I learn
 Here is an image of the Find Players page:
 <img class="img-fluid" src="../img/uh-gamelink/find-players.PNG">
 
-[Link to application](https://uh-gamelink.vercel.app)
+[Link to application](https://uh-gamelink.vercel.app)  
+
 [Link to Github Organization](https://github.com/uh-gamelink)
